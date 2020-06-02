@@ -1,0 +1,13 @@
+I:\Users\Makoto-dev\Desktop\Senai\Aula08Abstracao\bin\Debug\netcoreapp3.1\Aula08Abstracao.exe
+I:\Users\Makoto-dev\Desktop\Senai\Aula08Abstracao\bin\Debug\netcoreapp3.1\Aula08Abstracao.deps.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula08Abstracao\bin\Debug\netcoreapp3.1\Aula08Abstracao.runtimeconfig.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula08Abstracao\bin\Debug\netcoreapp3.1\Aula08Abstracao.runtimeconfig.dev.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula08Abstracao\bin\Debug\netcoreapp3.1\Aula08Abstracao.dll
+I:\Users\Makoto-dev\Desktop\Senai\Aula08Abstracao\bin\Debug\netcoreapp3.1\Aula08Abstracao.pdb
+I:\Users\Makoto-dev\Desktop\Senai\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.csprojAssemblyReference.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.AssemblyInfoInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.AssemblyInfo.cs
+I:\Users\Makoto-dev\Desktop\Senai\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.csproj.CoreCompileInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.dll
+I:\Users\Makoto-dev\Desktop\Senai\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.pdb
+I:\Users\Makoto-dev\Desktop\Senai\Aula08Abstracao\obj\Debug\netcoreapp3.1\Aula08Abstracao.genruntimeconfig.cache
